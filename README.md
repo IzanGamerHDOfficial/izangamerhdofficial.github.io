@@ -1,4 +1,4 @@
-# izangamerhdofficial.xyz
+# izangamerhdofficial.com
 This repository contains my website
 
 CREATED WITH <a href="https://github.com/mackenly/quickbiolinks/tree/master">QUICKBIOLINKS</a>
